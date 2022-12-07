@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\bin\Debug\net6.0\Students.DAL.deps.json
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\bin\Debug\net6.0\Students.DAL.runtimeconfig.json
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\bin\Debug\net6.0\Students.DAL.dll
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\bin\Debug\net6.0\Students.DAL.pdb
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.dll
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\refint\Students.DAL.dll
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.pdb
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\Students.DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.DAL\obj\Debug\net6.0\ref\Students.DAL.dll

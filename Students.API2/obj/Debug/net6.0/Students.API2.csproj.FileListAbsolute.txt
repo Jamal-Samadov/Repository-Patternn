@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.AssemblyInfo.cs
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AddingListStudents-main\Students.API2\obj\Debug\net6.0\Students.API2.MvcApplicationPartsAssemblyInfo.cache
